@@ -1,1 +1,6 @@
-print("I’m Данила Кульченко, and I’m not a monkey")
+#include <stdio.n>
+main ()
+{
+printf ("I’m Danila Kulchenko, and I’m not a monkey");
+getchar ();
+}
