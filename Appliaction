@@ -1,0 +1,6 @@
+#include <stdio.n>
+main ()
+{
+printf ("I’m Danila Kulchenko, and I’m not a monkey");
+getchar ();
+}
